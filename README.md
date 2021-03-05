@@ -5,3 +5,4 @@ GitHubのれんしゅう？だよ！
 2かいめ編集
 3 edit brunchB
 4 brunchA
+5 brunchC
